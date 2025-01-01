@@ -1,4 +1,4 @@
-# Google Play Store Project
+# Google Play Store Projec
 ## DESCRIPTION
 
 ### Objective: Make a model to predict the app rating, with other information about the app provided.
