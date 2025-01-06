@@ -1,7 +1,7 @@
 # Google Play Store Project
 ## DESCRIPTION
 
-### Objective: Make a model to predict the app rating, with other information about the app provided
+### Objective: Make a model to predict the app rating, with other information about the app provided.
 
 Problem Statement:
 
